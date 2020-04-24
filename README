@@ -1,1 +1,4 @@
-In this directory i put few functions like strlen,strcat ,strcmp so on ...
+1) String functions implementation
+
+2) if a function starts with 'a' like astrcat that means i have used array to implement 
+3) if a function starts with 'p' like pstrcat that means i have used pointer to implement it .
