@@ -1,3 +1,4 @@
+/* Replace duplicate character with dash symbol */
 #include<stdio.h>
 #include<string.h>
 void occurrence(char arr[]){
